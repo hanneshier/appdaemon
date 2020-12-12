@@ -1,3 +1,5 @@
+Fork of appdaemon using this recommendations https://github.com/AppDaemon/appdaemon/issues/1087
+
 # Description
 
 AppDaemon is a loosely coupled, multi-threaded, sandboxed python
